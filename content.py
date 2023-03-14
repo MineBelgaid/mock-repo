@@ -9,4 +9,4 @@ importer = Importer([repo], mock_repo)
 importer.set_author(["amine.a.belgaid@gmail.com","amin-belgaid@hotmail.com"])
 
 importer.import_repository()
-print("qrtgc")
+print("iwmhc")
